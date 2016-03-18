@@ -17,10 +17,10 @@ charset = nil
 html = open(url) do |f|
   charset = f.charset
   f.read
-  end
+end
 
 doc = Nokogiri::HTML.parse(html, nil, charset)
 
 doc.xpath('/html/body/div[2]/div/div[2]/div[1]/p[1]').each do |node|
-  puts  "iOS App Store " + node.text
+  puts 'iOS App Store ' + node.text
 end

@@ -12,7 +12,7 @@ This plugin get review time info from [appreviewtimes.com](http://appreviewtimes
 
 ## Requirements
 
-- ruby
+- ruby(1.9.2+)
 - [nokogiri](https://github.com/sparklemotion/nokogiri)
 
 ## License

@@ -23,7 +23,7 @@ end
 doc = Nokogiri::HTML.parse(html, nil, charset)
 
 puts 'Average Review Times'
-puts "---"
-puts '📱  iOS App Store '+ doc.xpath('/html/body/div[2]/div/div[2]/div[1]/p[1]').text
+puts '---'
+puts '📱  iOS App Store ' + doc.xpath('/html/body/div[2]/div/div[2]/div[1]/p[1]').text
 
 puts '💻  Mac App Store ' + doc.xpath('/html/body/div[2]/div/div[3]/div[1]/p[1]').text

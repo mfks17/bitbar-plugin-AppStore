@@ -17,4 +17,6 @@ This plugin get review time info from [appreviewtimes.com](http://appreviewtimes
 
 ## License
 
-App Store Review Times Bitbar Plugin is available under the MIT license. See the [LICENSE](https://github.com/mfks17/bitbar-plugin-AppStore/blob/master/LICENSE) file for more info.
+App Store Review Times Bitbar Plugin is available under the MIT license.
+
+See the [LICENSE](https://github.com/mfks17/bitbar-plugin-AppStore/blob/master/LICENSE) file for more info.

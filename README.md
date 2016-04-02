@@ -15,6 +15,10 @@ This plugin get review time info from [appreviewtimes.com](http://appreviewtimes
 - ruby(1.9.3+)
 - [nokogiri](https://github.com/sparklemotion/nokogiri)
 
+## Auther
+
+mfks17 - [Twitter](https://twitter.com/mfks17)
+
 ## License
 
 App Store Review Times Bitbar Plugin is available under the MIT license.

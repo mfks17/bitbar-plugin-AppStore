@@ -6,5 +6,5 @@ rvm:
 - ruby-head
 before_install:
 - gem install rubocop
-- gem install nokogiri
+- gem install nokogiri -- --use-system-libraries
 script: rubocop --fail-level=W

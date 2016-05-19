@@ -19,6 +19,10 @@ This plugin get review time info from [appreviewtimes.com](http://appreviewtimes
 
 mfks17 - [Twitter](https://twitter.com/mfks17)
 
+## Todo
+
+- test
+
 ## License
 
 App Store Review Times Bitbar Plugin is available under the MIT license.
